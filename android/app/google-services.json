@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962496327764",
+    "project_id": "apnagar-55ce1",
+    "storage_bucket": "apnagar-55ce1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962496327764:android:5e5bc5006bfe37fde5fdc1",
+        "android_client_info": {
+          "package_name": "com.example.apna_gar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962496327764-7984klmkq0gbb294bn3otcfbi0efv1ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaKKXITuAvJUNYUw98WlVNNd6ONQRg2Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962496327764-7984klmkq0gbb294bn3otcfbi0efv1ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
